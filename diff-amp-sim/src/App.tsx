@@ -4,9 +4,13 @@ import './App.css';
 import './theme.css';
 import SignalPlot from './components/SignalPlot';
 import SignalControls, { SignalType } from './components/SignalControls';
+import DiffAmpCircuit from './components/DiffAmpCircuit';
+import ThemeToggle from './components/ThemeToggle';
+import { useTheme } from './context/ThemeContext';
 
 
 function App() {
+  const { theme } = useTheme();
   // Signal controls
   // (No longer using signalType, amplitude, frequency, or old gain)
 
@@ -50,7 +54,8 @@ function App() {
   const vout = useMemo(() => vinp.map((v, i) => gain * (v - vinn[i])), [vinp, vinn, gain]);
 
   return (
-    <div className="App">
+    <div className={`App ${theme}`}>
+      <ThemeToggle />
       <header className="App-header">
         <h1 className="title">Differential Amplifier Simulator</h1>
         <p className="description">
@@ -81,7 +86,15 @@ function App() {
             </div>
             <div style={{ flex: 1, minWidth: '300px' }}>
               <h3 style={{ color: '#FF5722' }}>Differential Output</h3>
-              <SignalPlot x={t.map(x => x * 1000)} y={vout} title="V(out) = gain × (V(in+) - V(in-))" color="#FF5722" interactive />
+                        <SignalPlot 
+            x={t.map(x => x * 1000)} 
+            y={vout} 
+            title="V(out)" 
+            color="#FF5722" 
+            interactive 
+            theme="dark"
+            showGrid={true}
+          />
               <p className="description" style={{ fontSize: '0.9em', marginTop: '10px' }}>
                 Amplified difference with gain = {gain}
                 {signalType === 'noisy' ? ', notice how common-mode noise is rejected' : ''}

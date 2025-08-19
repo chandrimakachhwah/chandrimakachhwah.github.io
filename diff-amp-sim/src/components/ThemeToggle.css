@@ -1,0 +1,48 @@
+.theme-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+}
+
+.theme-toggle-button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+
+.theme-toggle-button.light {
+  background-color: #f0f0f0;
+  color: #333;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.theme-toggle-button.dark {
+  background-color: #2d2d2d;
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.theme-toggle-button:hover {
+  transform: scale(1.05);
+}
+
+.theme-label {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+/* Animation for icon */
+.theme-toggle-button {
+  transition: transform 0.2s ease;
+}
+
+.theme-toggle-button:active {
+  transform: scale(0.95);
+}

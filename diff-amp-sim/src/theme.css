@@ -1,5 +1,14 @@
-/* Professional dark theme for the differential amplifier simulator */
-:root {
+/* Theme variables */
+.App.light {
+  --primary-bg: #ffffff;
+  --secondary-bg: #f5f5f5;
+  --accent-color: #4CAF50;
+  --text-primary: #333333;
+  --text-secondary: #666666;
+  --border-color: #e0e0e0;
+}
+
+.App.dark {
   --primary-bg: #1a1a1a;
   --secondary-bg: #2d2d2d;
   --accent-color: #4CAF50;
