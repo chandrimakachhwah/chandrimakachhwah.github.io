@@ -4,11 +4,19 @@ name: "Chandrima"
 description: "VLSI Analog Design Engineer | B.Tech & M.Tech Graduate"
 url: "https://chandrimakachhwah.github.io"
 baseurl: ""
-repository: "chandrimakachhwah/chandrimakachhwah"
+repository: "chandrimakachhwah/chandrimakachhwah.github.io"
 
 # Theme
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
 
 # Site Author
 author:
