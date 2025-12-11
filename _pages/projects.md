@@ -1,4 +1,5 @@
 ---
+---
 layout: single
 title: Projects
 permalink: /projects/
@@ -27,8 +28,8 @@ Here's a showcase of the interactive tools and applications I've built, demonstr
   <p><strong>Technologies:</strong> React, TypeScript, Plotly.js, CSS3</p>
   
   <p>
-    <a href="/chandrima2108/diff-amp-sim/" class="btn btn--primary">🚀 Try Live Demo</a>
-    <a href="https://github.com/chandrima2108/chandrima2108/tree/main/diff-amp-sim" class="btn btn--info">📁 View Source</a>
+    <a href="/diff-amp-sim/" class="btn btn--primary">🚀 Try Live Demo</a>
+    <a href="https://github.com/chandrimakachhwah/chandrimakachhwah.github.io/tree/main/diff-amp-sim" class="btn btn--info">📁 View Source</a>
   </p>
 </div>
 
@@ -40,8 +41,7 @@ This simulator allows users to explore the behavior of differential amplifiers b
 
 I'm constantly working on new tools and simulations. Some upcoming projects include:
 
-- **Operational Amplifier Characteristics Analyzer**
-- **Filter Design Interactive Tool** 
+- **Operational Amplifier Characteristics Analyzer**n- **Filter Design Interactive Tool** 
 - **MOSFET Parameter Extraction Utility**
 - **Circuit Noise Analysis Simulator**
 
@@ -55,14 +55,6 @@ All projects are built with:
 - **Professional Development Practices** - Version control, automated deployment, responsive design
 - **Educational Focus** - Clear interfaces, helpful documentation, learning-oriented design
 - **Open Source** - All code is available for learning and collaboration
-
-### 💡 Project Philosophy
-
-Each project is designed with three core principles:
-
-1. **Educational Value** - Tools that help understand complex concepts
-2. **Practical Utility** - Real applications for engineering work
-3. **Code Quality** - Clean, maintainable, and well-documented code
 
 ---
 
