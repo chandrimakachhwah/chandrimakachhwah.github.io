@@ -25,3 +25,27 @@
 .btn {
   margin-right: 0.5rem;
 }
+
+/* Hero tagline visibility and responsive scaling */
+.page-intro .lead {
+  opacity: 0.95;
+  color: rgba(255,255,255,0.95);
+}
+@media (max-width: 600px) {
+  .page-title { font-size: 1.6rem; }
+  .page-intro .lead { font-size: 1.05rem; }
+}
+
+/* Avatar styling */
+.site-avatar img, .author-image img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* Active navigation indicator */
+.primary-nav .current > a, .primary-nav .active > a {
+  border-bottom: 2px solid #5e72e4;
+  color: #5e72e4;
+}
