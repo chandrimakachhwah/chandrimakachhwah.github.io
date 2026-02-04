@@ -1,6 +1,6 @@
 ---
 layout: single
-title: About
+title: "About Chandrima Kachhwah - VLSI Analog Design Engineer"
 permalink: /about/
 author_profile: true
 ---
