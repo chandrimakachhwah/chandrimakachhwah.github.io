@@ -9,8 +9,8 @@ locale: "en-US"
 lang: "en"
 
 # Theme
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme: "mmistakes/minimal-mistakes@4.26.0"
+minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Plugins
 plugins:
@@ -24,6 +24,7 @@ plugins:
 # Site Author
 author:
   name: "Chandrima Kachhwah"
+  avatar: "/assets/images/profile.svg"
   bio: "VLSI Analog Design Engineer with B.Tech & M.Tech background. Passionate about circuit design, technology, and continuous learning."
   location: "India"
   links:
@@ -46,10 +47,8 @@ social:
     - "https://www.linkedin.com/in/chandrima-kachhwah/"
 
 # Open Graph / Twitter Card defaults
-# twitter:
-#   username: chandrimakachhwah
 
-og_image: /assets/images/site-logo.png
+og_image: /assets/images/site-logo.svg
 
 # Analytics
 analytics:
