@@ -8,6 +8,9 @@ tags:
   - welcome
   - analog-design
   - portfolio
+header:
+  overlay_color: "#5e72e4"
+  overlay_filter: "0.5"
 ---
 
 Hello and welcome to my portfolio website! I'm excited to share this space where I'll be documenting my journey in VLSI analog design, showcasing technical projects, and sharing insights from the world of circuit design.

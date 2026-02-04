@@ -1,10 +1,9 @@
 ---
-layout: single
 title: "LDO (Low Dropout) Regulator: A Comprehensive Guide"
 date: 2024-12-20
 categories:
-  - Electronics
-  - Power Management
+  - electronics
+  - power-management
 tags:
   - LDO
   - Linear Regulator
@@ -13,6 +12,8 @@ tags:
 excerpt: "A comprehensive guide to understanding Low Dropout (LDO) regulators, their operation principles, design considerations, and practical applications in modern electronic systems."
 header:
   teaser: /assets/images/ldo-regulator-guide.jpg
+  overlay_color: "#5e72e4"
+  overlay_filter: "0.5"
 ---
 
 # LDO (Low Dropout) Regulator: A Comprehensive Guide

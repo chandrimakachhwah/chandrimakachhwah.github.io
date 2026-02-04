@@ -3,6 +3,9 @@ layout: single
 title: About
 permalink: /about/
 author_profile: true
+header:
+  overlay_color: "#5e72e4"
+  overlay_filter: "0.5"
 ---
 
 ## Hello, I'm Chandrima 👋

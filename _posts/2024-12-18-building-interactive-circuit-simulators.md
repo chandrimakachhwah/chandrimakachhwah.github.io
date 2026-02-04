@@ -11,6 +11,9 @@ tags:
   - differential-amplifier
   - plotly
   - typescript
+header:
+  overlay_color: "#5e72e4"
+  overlay_filter: "0.5"
 ---
 
 One of the exciting aspects of modern web development is the ability to create sophisticated engineering tools that run directly in the browser. Today, I want to share insights from building my differential amplifier simulator and discuss why web-based circuit simulation tools are becoming increasingly valuable in engineering education and rapid prototyping.
@@ -163,7 +166,7 @@ The combination of accessibility, interactivity, and immediate feedback makes we
 
 ---
 
-*Try the [Differential Amplifier Simulator](/chandrima2108/diff-amp-sim/) and let me know your thoughts! I'm always interested in feedback and suggestions for improvement.*
+*Try the [Differential Amplifier Simulator](/diff-amp-sim/) and let me know your thoughts! I'm always interested in feedback and suggestions for improvement.*
 
 ## References and Further Reading
 

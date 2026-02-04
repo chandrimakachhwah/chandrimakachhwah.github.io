@@ -29,7 +29,7 @@ I'm Chandrima, a passionate VLSI Analog Design Engineer with B.Tech and M.Tech q
     <div class="archive__item">
       <div class="archive__item-teaser">
         <a href="/diff-amp-sim/">
-          <i class="fas fa-microchip fa-3x" style="color: #4CAF50;"></i>
+          <i class="fas fa-microchip fa-3x icon-success"></i>
         </a>
       </div>
       <div class="archive__item-body">
@@ -39,7 +39,7 @@ I'm Chandrima, a passionate VLSI Analog Design Engineer with B.Tech and M.Tech q
         <div class="archive__item-excerpt">
           Interactive circuit simulation tool for analyzing differential amplifier behavior with real-time plotting.
         </div>
-        <p><a href="/diff-amp-sim/" class="btn btn--primary">Try Simulator</a></p>
+        <p><a href="/diff-amp-sim/" class="btn btn--primary">🚀 Try Simulator</a></p>
       </div>
     </div>
   </div>
