@@ -11,7 +11,10 @@ tags:
   - differential-amplifier
   - plotly
   - typescript
-excerpt: "Building interactive web-based circuit simulators for engineering education and rapid prototyping with React and TypeScript."
+excerpt: "Exploring how modern web technologies can create sophisticated engineering tools for circuit simulation, making analog design more accessible and educational."
+header:
+  overlay_color: "#5e72e4"
+  overlay_filter: "0.5"
 ---
 
 One of the exciting aspects of modern web development is the ability to create sophisticated engineering tools that run directly in the browser. Today, I want to share insights from building my differential amplifier simulator and discuss why web-based circuit simulation tools are becoming increasingly valuable in engineering education and rapid prototyping.

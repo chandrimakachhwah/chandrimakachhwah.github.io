@@ -1,0 +1,27 @@
+/* Custom CSS for consistent styling across the portfolio */
+
+/* Project feature box styling */
+.project-feature-box {
+  background: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+
+/* Icon colors for consistent branding */
+.icon-primary {
+  color: #5e72e4;
+}
+
+.icon-success {
+  color: #4CAF50;
+}
+
+.icon-info {
+  color: #17a2b8;
+}
+
+/* Ensure buttons have consistent spacing */
+.btn {
+  margin-right: 0.5rem;
+}

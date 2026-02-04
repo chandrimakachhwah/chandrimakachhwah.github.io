@@ -8,7 +8,10 @@ tags:
   - welcome
   - analog-design
   - portfolio
-excerpt: "Welcome to my technical portfolio! Documenting my VLSI analog design journey, projects, and insights."
+excerpt: "Introducing my portfolio website dedicated to VLSI analog design, circuit simulations, and sharing technical insights from the world of electronics engineering."
+header:
+  overlay_color: "#5e72e4"
+  overlay_filter: "0.5"
 ---
 
 Hello and welcome to my portfolio website! I'm excited to share this space where I'll be documenting my journey in VLSI analog design, showcasing technical projects, and sharing insights from the world of circuit design.

@@ -3,6 +3,9 @@ layout: single
 title: "Projects - Interactive Circuit Simulators and VLSI Tools"
 permalink: /projects/
 author_profile: true
+header:
+  overlay_color: "#5e72e4"
+  overlay_filter: "0.5"
 ---
 
 ## My Technical Projects
@@ -15,7 +18,7 @@ Here's a showcase of the interactive tools and applications I've built, demonstr
 
 **Interactive Circuit Simulation Tool**
 
-<div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin: 1rem 0;">
+<div class="project-feature-box">
   <h4>Key Features</h4>
   <ul>
     <li>Real-time circuit parameter visualization</li>
