@@ -1,0 +1,7 @@
+# robots.txt for chandrimakachhwah.github.io
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://chandrimakachhwah.github.io/sitemap.xml
