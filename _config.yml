@@ -46,8 +46,8 @@ social:
     - "https://www.linkedin.com/in/chandrima-kachhwah/"
 
 # Open Graph / Twitter Card defaults
-twitter:
-  username: chandrimakachhwah
+# twitter:
+#   username: chandrimakachhwah
 
 og_image: /assets/images/site-logo.png
 
