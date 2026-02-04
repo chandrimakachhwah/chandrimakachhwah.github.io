@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Projects
+title: "Projects - Interactive Circuit Simulators and VLSI Tools"
 permalink: /projects/
 author_profile: true
 header:
