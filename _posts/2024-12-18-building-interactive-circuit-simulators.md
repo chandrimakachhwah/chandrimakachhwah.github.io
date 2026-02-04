@@ -11,6 +11,7 @@ tags:
   - differential-amplifier
   - plotly
   - typescript
+excerpt: "Exploring how modern web technologies can create sophisticated engineering tools for circuit simulation, making analog design more accessible and educational."
 header:
   overlay_color: "#5e72e4"
   overlay_filter: "0.5"

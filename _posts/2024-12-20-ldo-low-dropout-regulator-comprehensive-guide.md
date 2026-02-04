@@ -11,7 +11,6 @@ tags:
   - Circuit Design
 excerpt: "A comprehensive guide to understanding Low Dropout (LDO) regulators, their operation principles, design considerations, and practical applications in modern electronic systems."
 header:
-  teaser: /assets/images/ldo-regulator-guide.jpg
   overlay_color: "#5e72e4"
   overlay_filter: "0.5"
 ---

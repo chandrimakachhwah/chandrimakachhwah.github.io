@@ -3,7 +3,7 @@
 Welcome to my personal portfolio and blog! This repository contains the source code for my Jekyll-based website showcasing my work in VLSI analog design and engineering projects.
 
 ## 🌐 Live Website
-**Visit:** [https://chandrima2108.github.io/chandrima2108/](https://chandrima2108.github.io/chandrima2108/)
+**Visit:** [https://chandrimakachhwah.github.io/](https://chandrimakachhwah.github.io/)
 
 ## 👩‍💻 About Me
 - 🔭 **Currently working on:** VLSI Analog Design
@@ -56,8 +56,8 @@ This website serves as:
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/chandrima2108/chandrima2108.git
-cd chandrima2108
+git clone https://github.com/chandrimakachhwah/chandrimakachhwah.github.io.git
+cd chandrimakachhwah.github.io
 
 # Install Jekyll dependencies
 bundle install
