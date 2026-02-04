@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Projects
+title: "Projects - Interactive Circuit Simulators and VLSI Tools"
 permalink: /projects/
 author_profile: true
 ---
@@ -40,7 +40,8 @@ This simulator allows users to explore the behavior of differential amplifiers b
 
 I'm constantly working on new tools and simulations. Some upcoming projects include:
 
-- **Operational Amplifier Characteristics Analyzer**n- **Filter Design Interactive Tool** 
+- **Operational Amplifier Characteristics Analyzer**
+- **Filter Design Interactive Tool** 
 - **MOSFET Parameter Extraction Utility**
 - **Circuit Noise Analysis Simulator**
 

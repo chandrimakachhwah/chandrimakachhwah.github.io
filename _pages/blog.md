@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Blog
+title: "Blog - Technical Insights on VLSI and Circuit Design"
 permalink: /blog/
 author_profile: true
 ---
